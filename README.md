@@ -1,2 +1,2 @@
-# GW-Instek-Oscilloscope-GUI
+GW-Instek-Oscilloscope-GUI
 created by GU-SE-CA
